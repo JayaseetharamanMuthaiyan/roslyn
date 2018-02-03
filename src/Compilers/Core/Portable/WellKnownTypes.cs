@@ -267,6 +267,7 @@ namespace Microsoft.CodeAnalysis
 
         System_Runtime_CompilerServices_IsReadOnlyAttribute,
         System_Runtime_CompilerServices_IsByRefLikeAttribute,
+        System_Runtime_CompilerServices_SkipLocalsInitAttribute,
         System_Runtime_InteropServices_InAttribute,
         System_ObsoleteAttribute,
         System_Span_T,
@@ -533,6 +534,7 @@ namespace Microsoft.CodeAnalysis
 
             "System.Runtime.CompilerServices.IsReadOnlyAttribute",
             "System.Runtime.CompilerServices.IsByRefLikeAttribute",
+            "System.Runtime.CompilerServices.SkipLocalsInitAttribute",
             "System.Runtime.InteropServices.InAttribute",
             "System.ObsoleteAttribute",
             "System.Span`1",
